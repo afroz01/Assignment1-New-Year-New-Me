@@ -44,4 +44,26 @@ font-size: 16px;
     margin-left: 1200px;
   
 
+} 
+
+.failure-container{
+    margin: 130px 320px 130px 200px;
+    display: flex;
+    
+  
+ 
+}
+.failure-description{
+    
+    text-align: left;
+    margin-left: 80px;
+    margin-top: 200px;
+}
+.failure-description h2{
+    font-weight: 700;
+font-size: 50px;
+
+}
+.failure-description p{
+    color: #444343;
 }
