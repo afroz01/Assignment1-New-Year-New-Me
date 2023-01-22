@@ -67,3 +67,86 @@ font-size: 50px;
 .failure-description p{
     color: #444343;
 }
+/* Plan Section Styles*/
+.plan-coontainer h2{
+    text-align: center;
+}
+.plans-section h2{
+    text-align: center;
+    color: #151414;
+    font-weight: 700;
+font-size: 40px;
+margin-bottom: 70px;
+}
+.skills-details{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 200px;
+}
+.skills-details h3{
+    color: #151414;
+    font-weight: 700;
+font-size: 30px;
+
+}
+.skills-details p{
+    color: #737272;
+}
+/*image styles*/
+
+.image-container{
+
+    width: 1140px;
+     height: 300px;
+     margin: 130px 200px;
+     background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url(./images/watch.png);
+     background-repeat: no-repeat;
+     border-radius: 5px;
+
+}
+.text{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 30px;
+    padding: 30px 600px 60px 65px;
+    
+}
+.btn{
+    color: #005FAC;
+    border: 0;
+    border-radius: 5px;
+    font-size: 20px;
+}
+/*footer section styles*/
+.footer{
+    color: #FFFFFF;
+    background-color: black;
+    margin-top: 60px ;
+    display: flex;
+    justify-content: space-between;1
+}
+.footer-future-details{
+    padding:130px 750px 130px 230px ;
+ 
+}
+.footer-subscribe-details{
+    padding: 130px 80px 200px 0;
+}
+.footer-subscribe-details input{
+    border: 1px solid gray;
+    background-color: black;
+    width: 325px;
+height: 64px;
+}
+.btn2{
+    width: 100px;
+height: 40px;
+color: #FFFFFF;
+    background-color: #005FAC;
+    border: 0;
+    border-radius: 5px;
+
+}
+.footer-future-details a{
+    text-decoration: none;
+}
